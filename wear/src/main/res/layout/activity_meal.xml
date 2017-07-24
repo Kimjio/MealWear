@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.wearable.view.GridViewPager xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:deviceIds="wear"
+    tools:context="com.kimjio.mealwear.MealActivity">
+
+    <!--TextView
+        android:background="#ff0000"
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textSize="20sp"
+        android:text="@string/lunch"/>
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="25dp"/>
+    <TextView
+        android:id="@+id/meal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:scrollbars="horizontal"
+        android:text="급식이 없음"/-->
+
+</android.support.wearable.view.GridViewPager>

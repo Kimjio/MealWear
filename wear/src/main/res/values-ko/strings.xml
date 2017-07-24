@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">급식웨어</string>
+    <string name="hello">안녕 세상!</string>
+    <string name="notification_posted">알림 전송됨</string>
+    <string name="title">상세 알림</string>
+    <string name="lunch">점심</string>
+    <string name="no_data_lunch">점심이 없습니다</string>
+    <string name="dinner">저녁</string>
+    <string name="no_data_dinner">저녁이 없습니다</string>
+    <string name="no_data_title">정보 없음</string>
+    <string name="no_data_message">정보가 없습니다</string>
+    <string name="breakfast">아침</string>
+    <string name="no_data_breakfast">아침이 없습니다</string>
+</resources>
